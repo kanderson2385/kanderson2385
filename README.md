@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Portfolio Project (Using VS CODE, Gitlab Pages and HTML </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  -(https://kanderson2385.github.io/portfolio/)
 
 
 <h2>📝Certifications</h2>
