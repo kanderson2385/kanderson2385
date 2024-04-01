@@ -2,32 +2,21 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Portfolio Project (Using VS CODE, Gitlab Pages and HTML </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📝Certifications</h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/491cddd8-2af7-4b7f-905f-c859eee1d238/public_url)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [ISC2 Candidate](https://www.credly.com/badges/81b68587-05b5-4381-85e2-16b4dc6eb262/public_url)
+- [Vulnerability Management: Assessing The Risk with CVSS](https://www.linkedin.com/learning/certificates/a1ab184be5316643522b416e6c4030e3c74eeb78a7c633e7c4a26834c55d1839)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**knderson2385/kanderson2385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
