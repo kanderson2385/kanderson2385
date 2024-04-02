@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Portfolio Project (Using VS CODE, Gitlab Pages and HTML </b>
+- <b>Portfolio Project (Using VS CODE, Gitlab Pages, CSS and HTML </b>
   -(https://kanderson2385.github.io/portfolio/)
 
 
