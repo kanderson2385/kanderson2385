@@ -1,31 +1,33 @@
-<h1>Hello, I'm Keith Anderson! <br/><a href="https://www.linkedin.com/in/keithanderson1985/">Cloud and Cybersecurity SME</a></a></h1>
+# Hello, I'm Keith Anderson!
 
-<h2>👨‍💻 Projects:</h2>
+**Cloud Security Engineer | Music Producer & Sync Composer**
 
-- <b>Portfolio Project (Using VS CODE, Gitlab Pages, CSS and HTML </b>
-  -(https://kanderson2385.github.io/portfolio/)
+---
 
+## 👨‍💻 Tech Stack
+- AWS GovCloud | IAM | Zero Trust Architecture
+- GitLab CI/CD | GitHub Actions | DevOps
+- React | TypeScript | Tailwind CSS
+- Cloudflare | Netlify | Docker
 
-<h2>📝Certifications</h2>
+## 🎵 Music & Sync
+- 1,000+ placements on Netflix, ESPN, NBC, CBS, Showtime & more
+- Sync licensing specialist under brand **K3lvin Kaos**
+- 🌐 [k3lvinkaosmusic.com](https://k3lvinkaosmusic.com)
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/491cddd8-2af7-4b7f-905f-c859eee1d238/public_url)
-- <a href="https://ibb.co/MVW2LcW">CompTIA Security+ CE
-- [ISC2 Candidate](https://www.credly.com/badges/81b68587-05b5-4381-85e2-16b4dc6eb262/public_url)
-- [Vulnerability Management: Assessing The Risk with CVSS](https://www.linkedin.com/learning/certificates/a1ab184be5316643522b416e6c4030e3c74eeb78a7c633e7c4a26834c55d1839)
+## 🗂 Projects
+- **[vibe-licensing-hub](https://github.com/kanderson2385/vibe-licensing-hub)** — Live music portfolio site built with Lovable + Claude Code, deployed via GitHub → Netlify CI/CD pipeline. ~$84/year total cost.
+- **[portfolio](https://kanderson2385.github.io/portfolio/)** — Personal portfolio built with HTML/CSS/VS Code
 
+## 📝 Certifications
+- AWS Certified Cloud Practitioner
+- CompTIA Security+ CE
+- ISC2 Candidate
+- Vulnerability Management: CVSS
 
+## 🔗 Connect
+- 💼 [LinkedIn](https://linkedin.com/in/kanderson2385)
+- 🌐 [k3lvinkaosmusic.com](https://k3lvinkaosmusic.com)
 
-<!--
-**knderson2385/kanderson2385** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Music built like infrastructure."*
